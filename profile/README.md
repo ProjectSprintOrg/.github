@@ -1,4 +1,14 @@
-## Hi there 👋
+# Project Sprint
+プロジェクトチームの行動習慣形成を支援するフレームワーク
+
+## Latest version
+- Version 5.0 - coming soon!
+
+## Related tool
+- [SuperGoodMeetings](https://sgms.app/)
+
+## Question and suggestion
+[issue](https://github.com/ProjectSprintOrg/.github/issues) または [Pull request](https://github.com/ProjectSprintOrg/.github/pulls) からお寄せください。
 
 <!--
 
