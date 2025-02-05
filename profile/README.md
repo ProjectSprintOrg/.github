@@ -2,7 +2,7 @@
 プロジェクトチームの行動習慣形成を支援するフレームワーク
 
 ## Latest version
-- Version 5.0 - coming soon!
+- [Version 4.3](https://github.com/ProjectSprintOrg/projectsprint.org/blob/main/CODE/v4/.3_ja/README.md)
 
 ## Related tool
 - [SuperGoodMeetings](https://sgms.app/)
