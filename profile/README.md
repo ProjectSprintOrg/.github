@@ -9,7 +9,7 @@
 
 ## Question and suggestion
 [Issues](https://github.com/ProjectSprintOrg/.github/issues) または [Pull requests](https://github.com/ProjectSprintOrg/.github/pulls) からお寄せください。
-具体的な方法は[こちら](https://github.com/ProjectSprintOrg/projectsprint.org/wiki/Question-and-Suggestion)をご参照ください.
+具体的な方法は[こちら](https://github.com/ProjectSprintOrg/projectsprint.org/wiki/Question-and-Suggestion)をご参照ください。
 
 <!--
 
