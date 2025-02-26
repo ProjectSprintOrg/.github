@@ -8,7 +8,7 @@
 - [SuperGoodMeetings](https://sgms.app/)
 
 ## Question and suggestion
-[issue](https://github.com/ProjectSprintOrg/.github/issues) または [Pull request](https://github.com/ProjectSprintOrg/.github/pulls) からお寄せください。
+[Issues](https://github.com/ProjectSprintOrg/.github/issues) または [Pull requests](https://github.com/ProjectSprintOrg/.github/pulls) からお寄せください。
 
 <!--
 
